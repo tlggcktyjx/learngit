@@ -7,3 +7,5 @@
 git reset --hard commit_id
 git log可以查看提交历史，确定回退的版本
 git reflog 可以查看命令历史，确定前进的版本
+
+renew
